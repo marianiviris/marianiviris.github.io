@@ -1,0 +1,31 @@
+h1 {
+    color: yellow;
+    background-color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 36pt;
+}
+
+p { 
+    color: blue;
+    background-color: azure;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic
+    font-size: 20pt;
+}
+
+#P1 {
+    color: green
+}
+
+a {
+    font-style: normal
+}
+
+a:visited {
+    color: greenyellow;
+}
+
+a:link {
+    color: plum
+}

@@ -1,0 +1,29 @@
+h1 { 
+    text-align: center;
+    color: red;
+}
+
+h2 {
+    color: blueviolet;
+}
+
+h3 {
+    color: blue;
+}
+
+img {
+    box-shadow: 8px 12px yellow;
+}
+
+section {
+    background-color: pink;
+}
+
+p {
+    font-size: 28pt;
+}
+
+ul {
+    border-style: double;
+    border-color: brown
+}
